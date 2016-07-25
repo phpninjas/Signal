@@ -1,4 +1,6 @@
 {
+  "minimum-stability": "stable",
+  "name": "phpninjas/signal",
   "require": {
     "php": ">=5.5",
     "ext-pcntl": "*"
